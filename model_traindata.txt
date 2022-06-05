@@ -1,0 +1,12 @@
+Epoch: 1	TrainLoss 2.181474	TestLoss 0.080669	TestAccuracy 57.1
+Epoch: 2	TrainLoss 1.457784	TestLoss 0.075096	TestAccuracy 57.1
+Epoch: 1	TrainLoss 1.508920	TestLoss 0.109301	TestAccuracy 57.1
+Epoch: 2	TrainLoss 1.415383	TestLoss 0.100508	TestAccuracy 57.1
+Epoch: 3	TrainLoss 1.260598	TestLoss 0.093708	TestAccuracy 57.1
+Epoch: 4	TrainLoss 1.195145	TestLoss 0.086734	TestAccuracy 57.1
+Epoch: 5	TrainLoss 1.181054	TestLoss 0.081598	TestAccuracy 57.1
+Epoch: 6	TrainLoss 1.063448	TestLoss 0.076528	TestAccuracy 71.4
+Epoch: 7	TrainLoss 1.004807	TestLoss 0.072692	TestAccuracy 71.4
+Epoch: 8	TrainLoss 0.959198	TestLoss 0.068745	TestAccuracy 71.4
+Epoch: 9	TrainLoss 0.933059	TestLoss 0.065071	TestAccuracy 71.4
+Epoch: 10	TrainLoss 0.875694	TestLoss 0.062150	TestAccuracy 71.4
